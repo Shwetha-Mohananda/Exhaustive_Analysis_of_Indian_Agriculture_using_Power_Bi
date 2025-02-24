@@ -30,11 +30,6 @@ Prerequisites
 Power BI Desktop
 Basic knowledge of Power BI, Power Query Editor, and data visualization techniques
 Excel for data preparation and analysis
-Contributing
-Feel free to fork this repository, make changes, and submit pull requests. Contributions are welcome!
-
-License
-This project is licensed under the MIT License.
 
 Tools Used
 Power BI Desktop
